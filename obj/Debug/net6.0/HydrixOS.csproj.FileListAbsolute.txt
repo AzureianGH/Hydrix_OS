@@ -1,0 +1,12 @@
+C:\Users\alexm\source\repos\Hydrix_OS\bin\Debug\net6.0\HydrixOS.deps.json
+C:\Users\alexm\source\repos\Hydrix_OS\bin\Debug\net6.0\HydrixOS.dll
+C:\Users\alexm\source\repos\Hydrix_OS\bin\Debug\net6.0\HydrixOS.pdb
+C:\Users\alexm\source\repos\Hydrix_OS\obj\Debug\net6.0\HydrixOS.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\Hydrix_OS\obj\Debug\net6.0\HydrixOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\Hydrix_OS\obj\Debug\net6.0\HydrixOS.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\Hydrix_OS\obj\Debug\net6.0\HydrixOS.AssemblyInfo.cs
+C:\Users\alexm\source\repos\Hydrix_OS\obj\Debug\net6.0\HydrixOS.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\Hydrix_OS\obj\Debug\net6.0\HydrixOS.dll
+C:\Users\alexm\source\repos\Hydrix_OS\obj\Debug\net6.0\refint\HydrixOS.dll
+C:\Users\alexm\source\repos\Hydrix_OS\obj\Debug\net6.0\HydrixOS.pdb
+C:\Users\alexm\source\repos\Hydrix_OS\obj\Debug\net6.0\ref\HydrixOS.dll

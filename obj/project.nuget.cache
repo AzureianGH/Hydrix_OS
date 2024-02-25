@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "7WqfYKKE+a0aYWBRNPn6/R5lWwZ1az5lNnSNY8bt5x2P0zcRjbXkBieYLH08s1M6yvn+mKXu9vbp/xRbK10u9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexm\\source\\repos\\Hydrix_OS\\HydrixOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexm\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20231215124644\\cosmos.build.0.1.0-localbuild20231215124644.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20231215124652\\cosmos.common.0.1.0-localbuild20231215124652.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20231215124652\\cosmos.core.0.1.0-localbuild20231215124652.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20231215124652\\cosmos.debug.kernel.0.1.0-localbuild20231215124652.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20231215124652\\cosmos.hal2.0.1.0-localbuild20231215124652.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\cosmos.plugs\\0.1.0-localbuild20231215124652\\cosmos.plugs.0.1.0-localbuild20231215124652.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20231215124652\\cosmos.system2.0.1.0-localbuild20231215124652.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20231215124652\\il2cpu.api.0.1.0-localbuild20231215124652.nupkg.sha512"
+  ],
+  "logs": []
+}
